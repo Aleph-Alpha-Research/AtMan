@@ -11,7 +11,7 @@ setuptools.setup(
     description= "open source impl of atman on magma",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Aleph-Alpha/AtMan",
+    url="https://github.com/Aleph-Alpha-Research/AtMan",
     packages=setuptools.find_packages(),
     install_requires= None,
     #python_requires='>=3.6',

@@ -1,5 +1,5 @@
 '''
-Forked from: https://github.com/Aleph-Alpha/magma/blob/master/magma/sampling.py
+Forked from: https://github.com/Aleph-Alpha-Research/magma/blob/master/magma/sampling.py
 '''
 import torch
 import torch.nn.functional as F
